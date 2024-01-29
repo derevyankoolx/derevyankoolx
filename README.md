@@ -39,7 +39,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://www.instagram.com/derevianko.olx/" target="_blank">
-      <img src="https://icons8.com/icon/kfnjM4KPaLxk/instagram" width="40" height="40" alt="instagram" />
+      <img src="https://img.icons8.com/?size=256&id=kfnjM4KPaLxk&format=png" width="40" height="40" alt="instagram" />
     </a>
   </div>
 
@@ -52,7 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/tree/master/icons/gulp/gulp-plaing.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/tree/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
 </div>
 
