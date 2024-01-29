@@ -1,23 +1,32 @@
 
-# Привет, меня зовут Алексей!
+# Привіт, мене звати Олександр!
 
 ---
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
+Я починаючий веб-розробник<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мені 24 роки, проживаю в Харків. Молодий, амбіційний, 
+відповідальний, чітко йду до своєї мети, командний гравець, 
+маю безмежну жагу до нових знань та готовий до 
+самовдосконалення.Маю три роки досвіду у веб-розробці та 
+верстці сайтів. Закінчив курси веб-розробника. У ході своєї 
+кар'єри успішно реалізував кілька значущих проектів, 
+включаючи лендінги для Міністерства Добрих Дій 
+(волонтерський рух)та проекту FineCode (безкоштовні IT курси 
+для українців).Варто відзначити, що волонтерскьий рух вже успішно припинив 
+свою діяльність. Наразі додатково займаюсь фрілансом, створюючи додаткові 
+сторінки та функціонал для проекту <a href="jjcamp.com.ua" target="_blank">jjcamp.com.ua</a>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
 - :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Зв'язок зі мною: [![Telegram Badge](https://img.shields.io/badge/-dereviankoolx-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dereviankoolx) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:derevyankoolx@gmail.com)
 
 ---
 
